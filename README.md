@@ -4,7 +4,7 @@ My personal website
 
 # Credits
 
-I used [Gardevoir - The Modern CSS Reset][00] by [Krish Gupta][01].
+I used [Gardevoir - The Modern CSS Reset][00] made by [Krish Gupta][01].
 
 # Copyright
 
