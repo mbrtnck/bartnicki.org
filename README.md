@@ -1,4 +1,4 @@
-# bartnicki.org
+# Bartnicki.org
 
 My personal website
 
