@@ -6,9 +6,10 @@ My personal website
 
 I used [Gardevoir - The Modern CSS Reset][00] made by [Krish Gupta][01].
 
-# Copyright
+# Author
 
-Copyright &copy; 2023 [Mikołaj Bartnicki][99]
+Copyright &copy; 2023 [Mikołaj Bartnicki][99]<br>
+All rights reserved.
 
 [00]: https://github.com/krshoss/gardevoir
 [01]: https://github.com/krshkun
